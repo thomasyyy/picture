@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T14:51:45.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AV1AeIIzecnCc-sD-glo" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T14:54:59.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="d0QxeQbhVzedztF1vunP" version="24.6.4" type="github">
   <diagram name="第 1 页" id="aMfX8ptuOQOeLWHyw1Sh">
     <mxGraphModel dx="1059" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +150,30 @@
               <mxPoint x="242" y="444" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-50" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Ocean&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.21" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-51" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Ocean&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.21" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-52" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;FedML&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.21" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-53" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;VeryFL&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.21" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-54" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Flock.io&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-55" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;FlureeDB&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641.2900000000001" y="190.34" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-56" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Phala Network&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641.29" y="309.67" width="108.71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PvHRAIuGmy7UVEKZFEKR-57" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Substra&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641.2900000000001" y="470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
