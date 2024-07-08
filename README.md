@@ -1,1 +1,2 @@
-# picture
+# blockchain.drawio
+The figure 6 in the paper is this one. Companies shown below are pioneers in fusing blockchain technology with federated analysis.These initiatives show the potential of a wide range of uses for federated analytics and blockchain technology, including decentralized data analysis, distributed machine learning, and data privacy protection. The potential for this convergence exists to augment the function of blockchain technology in the digital economy. In summary, these initiatives offer practical applications for blockchain technology.
